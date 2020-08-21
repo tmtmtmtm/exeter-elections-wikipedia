@@ -115,8 +115,8 @@ Q333831,Henry Northcote,Q9626,Conservative Party (UK),3884,Q7888018,General elec
 Q4710053,Albert Dunn,Q622441,Liberal Party (UK),3329,Q7888018,General election 1892,2
 Q333831,Henry Northcote,Q9626,Conservative Party (UK),3857,Q7888019,General election 1895,1
 ,Adam Spencer Hogg,Q622441,Liberal Party (UK),3363,Q7888019,General election 1895,2
-Q333342,Edgar Vincent,Q9626,Conservative Party (UK),4030,,1899 Exeter by-election,1
-Q4730689,Allan Bright,Q622441,Liberal Party (UK),3371,,1899 Exeter by-election,2
+Q333342,Edgar Vincent,Q9626,Conservative Party (UK),4030,Q98543450,1899 Exeter by-election,1
+Q4730689,Allan Bright,Q622441,Liberal Party (UK),3371,Q98543450,1899 Exeter by-election,2
 Q333342,Edgar Vincent,Q9626,Conservative Party (UK),4001,Q918358,General election 1900,1
 Q4730689,Allan Bright,Q622441,Liberal Party (UK),3388,Q918358,General election 1900,2
 Q5546325,George Kekewich,Q622441,Liberal Party (UK),4469,Q3076606,General election 1906,1
@@ -149,12 +149,12 @@ Q6145332,James Wentworth Buller,Q108700,Whigs (British political party),1029,Q18
 Q8020116,William Webb Follett,Q9626,Conservative Party (UK),1302,Q2073185,General election 1841,1
 Q26311084,Edward Divett,Q1687668,Radicals (UK),1192,Q2073185,General election 1841,2
 Q337686,Algernon Percy,Q9626,Conservative Party (UK),1119,Q2073185,General election 1841,3
-Q8020116,William Webb Follett,Q9626,Conservative Party (UK),1293,,"By-election, 20 April 1844",1
-Q6223177,John Briggs,Q108700,Whigs (British political party),529,,"By-election, 20 April 1844",2
-Q26128936,John Duckworth,Q9626,Conservative Party (UK),1258,,"By-election, 7 July 1845",1
-Q6223177,John Briggs,Q108700,Whigs (British political party),588,,"By-election, 7 July 1845",2
+Q8020116,William Webb Follett,Q9626,Conservative Party (UK),1293,Q98543460,"By-election, 20 April 1844",1
+Q6223177,John Briggs,Q108700,Whigs (British political party),529,Q98543460,"By-election, 20 April 1844",2
+Q26128936,John Duckworth,Q9626,Conservative Party (UK),1258,Q98543467,"By-election, 7 July 1845",1
+Q6223177,John Briggs,Q108700,Whigs (British political party),588,Q98543467,"By-election, 7 July 1845",2
 Q26128936,John Duckworth,Q9626,Conservative Party (UK),1210,Q3943728,General election 1852,1
 Q26311084,Edward Divett,Q1687668,Radicals (UK),1191,Q3943728,General election 1852,2
 Q5544932,George Buck,Q9626,Conservative Party (UK),1111,Q3943728,General election 1852,3
-Q5342426,Edward Courtenay,Q9626,Conservative Party (UK),1096,,"By-election, 4 August 1864",1
-Q1574706,John Coleridge,Q622441,Liberal Party (UK),1070,,"By-election, 4 August 1864",2
+Q5342426,Edward Courtenay,Q9626,Conservative Party (UK),1096,Q98543473,"By-election, 4 August 1864",1
+Q1574706,John Coleridge,Q622441,Liberal Party (UK),1070,Q98543473,"By-election, 4 August 1864",2
