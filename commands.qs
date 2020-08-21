@@ -338,7 +338,7 @@ LAST	P31	Q5
 LAST	Len	"Nigel Byles"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
-LAST	P3602	Q918472	P768	Q24768	P1111	209	P1352	5	S4656	"https://en.wikipedia.org/wiki/Exeter_(UK_Parliament_constituency)"
+LAST	P3602	Q918472	P768	Q24768	P102	Q98543370	P1111	209	P1352	5	S4656	"https://en.wikipedia.org/wiki/Exeter_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Paul Edwards"
